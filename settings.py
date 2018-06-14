@@ -1,6 +1,8 @@
 #Subscriber Settings
 def subscriberTopic():
     return "rps"
+def cameraNum():
+    return 1
 
 #Talker Settings
 def talkerTopic():
