@@ -1,8 +1,6 @@
 #Subscriber Settings
 def subscriberTopic():
     return "rps"
-def dataType():
-    return True #True = picture, False = video
 
 #Talker Settings
 def talkerTopic():
