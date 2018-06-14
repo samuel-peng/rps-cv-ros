@@ -5,6 +5,7 @@ Rock Paper Scissors on ROS
 This is intende to be used with ROS.<br />
 Input a image of the gesture to be recognized.<br />
 Output three strings, the result, the gesture recognized (human player), and the gesture randomly selected (the robot).<br />
+Use after the following steps are correctly done:
 
 ### Setting
 Five elements can be set using the `setting.py` file. They are: 
